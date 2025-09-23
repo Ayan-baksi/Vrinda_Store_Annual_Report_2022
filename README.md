@@ -3,6 +3,7 @@
 ---
 
 ## 🔎 Project Overview
+![image alt](https://github.com/Ayan-baksi/Vrinda_Store_Annual_Report_2022/blob/main/Annual%20Report%202022.png?raw=true)
 
 This project analyzes the annual performance of Vrinda Store in 2022 using Excel dashboards.
 The report highlights sales trends, order distribution, customer demographics, and regional insights to provide a data-driven overview of business performance.
